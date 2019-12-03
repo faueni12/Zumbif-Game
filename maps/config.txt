@@ -1,0 +1,6 @@
+46 = C = Chão_madeira
+46 (tbm, n sei pq) = M = Matinho
+98 = Z = area_diagE
+120 = z = areia_D
+99 = X = areia_cima
+118 = x = areia_normal
